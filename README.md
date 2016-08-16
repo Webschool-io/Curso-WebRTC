@@ -48,8 +48,8 @@ __* Irei citar alguns plugins que economizam tempo, mas iremos codar na unha, se
 
  Professor e idealizador do curso:
 
- @manzettidenis | Denis Manzetti
+ @[manzettidenis] (https://github.com/manzettidenis) | Denis Manzetti
 
  Contribuidores:
 
- @erikxavier | Erik Xavier
+ @[erikxavier] (https://github.com/erikxavier)| Erik Xavier
