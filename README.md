@@ -1,7 +1,6 @@
 # Curso de webRTC
 Início do curso: __AGOSTO__
 
-
 ## O que é webRTC
 
 ``WebRTC is a free, open project that provides browsers and mobile applications with Real-Time Communications (RTC) capabilities via``
@@ -13,13 +12,10 @@ Início do curso: __AGOSTO__
 ``The WebRTC initiative is a project supported by Google, Mozilla and Opera, amongst others. This page is maintained by the Google``
 ``Chrome team.``
 
-## Básico
-
-* Tipos de instalações e suas diferenças
-
 
 ## Projeto final
-``Call me if you can``
+### Call me if you can
+
 Criaremos um appweb de atendimento online com audio P2P, usandoa API do WebRTC e Javascript, plugin-free motherfucker.
 
 __* Irei citar alguns plugins que economizam tempo, mas iremos codar na unha, seus danadinhos...__
@@ -36,15 +32,11 @@ __* Irei citar alguns plugins que economizam tempo, mas iremos codar na unha, se
 - Introdução à Streams
 
 - MediaStream (aka getUserMedia)
- - Na Web
- - NodeJS
-
 - RTCPeerConection
 - RTCDataChannel
 - Screen and Tab Capture
 
-
-- Projeto CallMeIfYouCan
+- Projeto Final - CallMeIfYouCan
  - Scrum-mificando
  - Modelando os fluxos
  - Resolvendo a treta de compatibilidade
@@ -54,8 +46,10 @@ __* Irei citar alguns plugins que economizam tempo, mas iremos codar na unha, se
  - Deploy
 
 
- Professor e idealizador do curso: 
- @manzettidenis - Denis Manzetti
+ Professor e idealizador do curso:
+
+ @manzettidenis | Denis Manzetti
 
  Contribuidores:
- @erikxavier - Erik Xavier
+
+ @erikxavier | Erik Xavier
