@@ -25,9 +25,13 @@ Início do curso: __20 de AGOSTO__
 - Introdução à Streams
 
 - MediaStream (aka getUserMedia)
+- MediaRecorder
+- Servidor de sinalização - NodeJS
 - RTCPeerConection
+- Ice Candidate
 - RTCDataChannel
 - Screen and Tab Capture
+- Stun & Turn Server
 
 - Projeto Final - CallMeIfYouCan
  - Scrum-mificando
