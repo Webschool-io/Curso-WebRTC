@@ -4,11 +4,11 @@ Início do curso: __AGOSTO__
 
 ## O que é webRTC
 
-``WebRTC is a free, open project that provides browsers and mobile applications with Real-Time Communications (RTC) capabilities via simple APIs. The WebRTC components have been optimized to best serve this purpose.
+``WebRTC is a free, open project that provides browsers and mobile applications with Real-Time Communications (RTC) capabilities via`` ``simple APIs. The WebRTC components have been optimized to best serve this purpose.``
 
-Our mission: To enable rich, high-quality RTC applications to be developed for the browser, mobile platforms, and IoT devices, and allow them all to communicate via a common set of protocols.
+``Our mission: To enable rich, high-quality RTC applications to be developed for the browser, mobile platforms, and IoT devices, and`` allow ``them all to communicate via a common set of protocols.``
 
-The WebRTC initiative is a project supported by Google, Mozilla and Opera, amongst others. This page is maintained by the Google Chrome team.``
+``The WebRTC initiative is a project supported by Google, Mozilla and Opera, amongst others. This page is maintained by the Google`` Chrome ``team.``
 
 ## Básico
 
@@ -30,9 +30,6 @@ __* Irei citar alguns plugins que economizam tempo, mas iremos codar na unha, se
   - Soluções
 
 - Introdução à Streams
- - o que são streams
- -
-
 
 - MediaStream (aka getUserMedia)
  - Na Web
