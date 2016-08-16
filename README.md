@@ -1,7 +1,7 @@
 # Curso de webRTC
 Início do curso: __20 de AGOSTO__
 
-## O que é webRTC
+## O que é o WebRTC
 
 ``WebRTC is a free, open project that provides browsers and mobile applications with Real-Time Communications (RTC) capabilities via``
 ``simple APIs. The WebRTC components have been optimized to best serve this purpose.``
@@ -12,13 +12,6 @@ Início do curso: __20 de AGOSTO__
 ``The WebRTC initiative is a project supported by Google, Mozilla and Opera, amongst others. This page is maintained by the Google``
 ``Chrome team.``
 
-
-## Projeto final
-### Call me if you can
-
-Criaremos um appweb de atendimento online com audio P2P, usandoa API do WebRTC e Javascript, plugin-free motherfucker.
-
-__* Irei citar alguns plugins que economizam tempo, mas iremos codar na unha, seus danadinhos...__
 
 ## Ementa
 
@@ -46,10 +39,18 @@ __* Irei citar alguns plugins que economizam tempo, mas iremos codar na unha, se
  - Deploy
 
 
- Professor e idealizador do curso:
+## Projeto final
+### Call me if you can
+
+Criaremos um appweb de atendimento online com audio P2P, usandoa API do WebRTC e Javascript, plugin-free motherfucker.
+
+__* Irei citar alguns plugins que economizam tempo, mas iremos codar na unha, seus danadinhos...__
+
+### Professor e idealizador do curso:
 
  @[manzettidenis] (https://github.com/manzettidenis) | Denis Manzetti
 
- Contribuidores:
+### Contribuidores:
 
- @[erikxavier] (https://github.com/erikxavier)| Erik Xavier
+@[erikxavier] (https://github.com/erikxavier)| Erik Xavier
+@[suissa] (https://github.com/suissa)| Suissa
