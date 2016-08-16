@@ -42,16 +42,16 @@ Início do curso: __20 de AGOSTO__
 ## Projeto final
 ### Call me if you can
 
-Criaremos um appweb de atendimento online com audio P2P, usandoa API do WebRTC e Javascript, plugin-free motherfucker.
+  Criaremos um appweb de atendimento online com audio P2P, usandoa API do WebRTC e Javascript, plugin-free motherfucker.
 
-__* Irei citar alguns plugins que economizam tempo, mas iremos codar na unha, seus danadinhos...__
+  __* Irei citar alguns plugins que economizam tempo, mas iremos codar na unha, seus danadinhos...__
 
 ### Professor e idealizador do curso:
 
- @[manzettidenis] (https://github.com/manzettidenis) | Denis Manzetti
+  Denis Manzetti @[manzettidenis] (https://github.com/manzettidenis)
 
 ### Contribuidores:
 
-@[erikxavier] (https://github.com/erikxavier)| Erik Xavier
+  Erik Xavier | @[erikxavier] (https://github.com/erikxavier)
 
-@[suissa] (https://github.com/suissa)| Suissa
+  Suissa | @[suissa] (https://github.com/suissa)
