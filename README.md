@@ -48,7 +48,7 @@ Início do curso: __20 de AGOSTO__
 
 ### Professor e idealizador do curso:
 
-  Denis Manzetti @[manzettidenis] (https://github.com/manzettidenis)
+  Denis Manzetti | @[manzettidenis] (https://github.com/manzettidenis)
 
 ### Contribuidores:
 
