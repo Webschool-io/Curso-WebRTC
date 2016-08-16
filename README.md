@@ -53,4 +53,5 @@ __* Irei citar alguns plugins que economizam tempo, mas iremos codar na unha, se
 ### Contribuidores:
 
 @[erikxavier] (https://github.com/erikxavier)| Erik Xavier
+
 @[suissa] (https://github.com/suissa)| Suissa
