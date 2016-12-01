@@ -1,6 +1,6 @@
 # Curso de webRTC
 
-Início do curso: __10 de DEZEMBRO__
+Início do curso: __JANEIRO__
 
 ## O que é o WebRTC
 
