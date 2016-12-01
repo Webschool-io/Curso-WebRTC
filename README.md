@@ -51,12 +51,14 @@ Início do curso: __10 de DEZEMBRO__
 
   __* Irei citar alguns plugins que economizam tempo, mas iremos codar na unha, seus danadinhos...__
 
+
 ### Professor e idealizador do curso:
 
-  Denis Manzetti | @[manzettidenis] (https://github.com/manzettidenis)
-
+  Suissa | @[suissa] (https://github.com/suissa)
+  
 ### Contribuidores:
 
   Erik Xavier | @[erikxavier] (https://github.com/erikxavier)
+  
+  Denis Manzetti | @[manzettidenis] (https://github.com/manzettidenis)
 
-  Suissa | @[suissa] (https://github.com/suissa)
