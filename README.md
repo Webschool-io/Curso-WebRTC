@@ -46,5 +46,6 @@ Início do curso: __JANEIRO__
 
 ### Contribuidores:
   Erik Xavier | @[erikxavier] (https://github.com/erikxavier)
+  
   Suissa | @[suissa] (https://github.com/suissa)
 
