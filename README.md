@@ -16,24 +16,13 @@ Início do curso: __JANEIRO__
 
 ## Ementa
 
-- O que é
-  - APIs
-  - Server Less !? Até que ponto..?
-  - Aplicações
-  - Problemas
-  - Soluções
-
-- Introdução à Streams
-
+- O que é o WebRTC
+- As 3 principais APIs
 - MediaStream (aka getUserMedia)
-- MediaRecorder
-- Servidor de sinalização - NodeJS
 - RTCPeerConection
-- Ice Candidate
 - RTCDataChannel
-- Screen and Tab Capture
-- Stun & Turn Server
 
+------------
 - Projeto Final - CallMeIfYouCan
  - Scrum-mificando
  - Modelando os fluxos
@@ -52,13 +41,10 @@ Início do curso: __JANEIRO__
   __* Irei citar alguns plugins que economizam tempo, mas iremos codar na unha, seus danadinhos...__
 
 
-### Professor e idealizador do curso:
-
-  Suissa | @[suissa] (https://github.com/suissa)
-  
-### Contribuidores:
-
-  Erik Xavier | @[erikxavier] (https://github.com/erikxavier)
-  
+### Professor:
   Denis Manzetti | @[manzettidenis] (https://github.com/manzettidenis)
+
+### Contribuidores:
+  Erik Xavier | @[erikxavier] (https://github.com/erikxavier)
+  Suissa | @[suissa] (https://github.com/suissa)
 
