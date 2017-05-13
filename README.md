@@ -1,6 +1,10 @@
 # Curso de webRTC
 
-Início do curso: __FEVEREIRO__
+Início do curso: __13 de MAIO de 2017__
+Término do curso: __13 de OUTUBRO de 2017__
+
+
+Aulas novas todos os sábados, ou a cada quinzena.  A ser definido ainda..
 
 ## O que é o WebRTC
 
